@@ -19,6 +19,12 @@
 dsh plugin --profile web add dsh-plugin-quick-restart
 ```
 
+或者在线安装:
+
+```bash
+dsh plugin --profile web add https://github.com/feir3413/dsh-plugin-quick-restart/releases/download/v1.0.0/dsh-plugin-quick-restart-1.0.0.tgz
+```
+
 或直接通过 Git 仓库安装：
 
 ```bash

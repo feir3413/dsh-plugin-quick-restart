@@ -17,7 +17,7 @@ Quick Restart button in Settings menu for DeepSeek Harness Web GUI.
 dsh plugin --profile web add dsh-plugin-quick-restart
 ```
 
-Or install from (Recommended. No need to download):
+Or install from online:
 
 ```bash
 dsh plugin --profile web add https://github.com/feir3413/dsh-plugin-quick-restart/releases/download/v1.0.0/dsh-plugin-quick-restart-1.0.0.tgz
