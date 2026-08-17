@@ -20,7 +20,7 @@ dsh plugin --profile web add dsh-plugin-quick-restart
 Or install from git:
 
 ```bash
-dsh plugin --profile web add https://github.com/your-username/dsh-plugin-quick-restart.git
+dsh plugin --profile web add https://github.com/feir3413/dsh-plugin-quick-restart.git
 ```
 
 ## License
