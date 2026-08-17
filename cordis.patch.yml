@@ -1,0 +1,3 @@
+- insert:
+    - id: quick-restart
+      name: dsh-plugin-quick-restart
